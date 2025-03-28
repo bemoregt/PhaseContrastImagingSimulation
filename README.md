@@ -2,6 +2,12 @@
 
 This repository contains a Python implementation of phase contrast microscopy simulation using the Transport of Intensity Equation (TIE) for phase retrieval.
 
+## Images
+
+![Phase Contrast Image 1](img1.daumcdn.jpg)
+![Phase Contrast Image 2](img1.daumcdn-1.png)
+![Phase Contrast Image 3](img1.daumcdn-14.png)
+
 ## Overview
 
 Phase contrast microscopy is a powerful technique for visualizing transparent specimens (like biological cells) that do not absorb light but alter its phase. This simulation demonstrates:
